@@ -6,7 +6,7 @@ The Knight of Cups
 
 ## SYNOPSIS
 
-The young Knight, riding relaxed towards the river on his horse, holding a cup forth.
+The young Knight, rides relaxed towards the river on his horse.
 
 ## DESCRIPTION
 
